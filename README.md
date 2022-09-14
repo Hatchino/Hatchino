@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from France</h3></br>
 <img align="right" alt"girlCoding" width="400" src="https://i.pinimg.com/originals/cd/6f/24/cd6f240d6467e74b1452991a638adf99.gif">
 
-- 🔭 I’m currently working on **MyCream project**
+- 🔭 I’m currently working on **Challenge**
 
 - 🌱 I’m currently learning **PHP, symfony**
 
