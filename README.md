@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from France</h3></br>
 <img align="right" alt"girlCoding" width="400" src="https://i.pinimg.com/originals/cd/6f/24/cd6f240d6467e74b1452991a638adf99.gif">
 
-- 🎓 I learn **on my own**
+- 🚀 I love programming and learning new things!
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** & **node.js** 
 
 
 
