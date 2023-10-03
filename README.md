@@ -4,8 +4,7 @@
 
 - 🚀 I love programming and learning new things!
 
-- 🌱 I’m currently learning **JavaScript** & **node.js** 
-
+- 🌱 I’m currently learning **node.js** 
 
 
 <h3 align="left">🛠️ Languages and Tools 🛠️</h3>
